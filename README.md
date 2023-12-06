@@ -53,8 +53,6 @@ The following ETL steps were undertaken to clean & transform the raw data into a
 4. **Data tables are connected via shared lookup tables (not directly to each other)**
 5. **all foreign keys were made invisible** 
 
-![relationship_model](relationship_model.png)
-
 
 ## In Data View
 **Data Categorization for financial & geographic visuals** and
@@ -115,8 +113,7 @@ Data visualisation need utmost attention as the data can able to communicate to 
 
 5.**The store in Portland, USA clocked 1000 Sales in December**
 
-![Dashboard](Dashboard.png)
-
+\
 ## Repository Purpose
 **There are measures in this project which are yet to be used for product and store page.**
 ---
